@@ -1,17 +1,17 @@
 const CONFIG = {
     introTitle: 'Ê nhóc con!',
-    introDesc: `Thông minh là IQ
-    <br/> Còn thích em là like you
-    <br/> Tiếng Anh My là của tôi
-    <br/> Nên em là người được anh yêu`,
+    introDesc: `Thông minh là IQ`
+    <br/> `Còn thích em là like you`
+    <br/> `Tiếng Anh My là của tôi`
+    <br/> `Nên em là người được anh yêu`,
     btnIntro: 'Anh hâm à?',
-    title: 'Gọi em là Trà sữa, để đi kèm Tran Chau',
+    title: 'Gọi em là TS, để đi kèm TC',
     desc: 'Em có muốn làm ly trà sữa ngọt ngào ở bên cạnh Tran Chau béo ngậy thơm lừng không ? <3',
     btnYes: 'Đương nhiên là có',
     btnNo: 'Mơ hả anh trai :3',
     question:'Sao em lại yêu anh nhờ ?',
     btnReply: 'Anh dở hơi!',
-    reply: 'Thích thì yêu thôi',
+    reply: 'Thích thì yêu, không thích thì yêu',
     mess: '232 tháng có 6965 ngày',
     messDesc: 'Nhưng mà ngày đẹp nhất là ngày bên em',
     btnAccept: 'Đớp thính <33',
