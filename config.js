@@ -1,9 +1,12 @@
 const CONFIG = {
     introTitle: 'Ê nhóc con!',
-    introDesc: `Thông minh là IQ`
-    `còn thích em là like you`
-   `Tiếng Anh My là của tôi`
-   ` Nên em là người được anh yêu`,
+    introDesc: `Thông minh là IQ,
+    
+    còn thích em là like you,
+    
+    tiếng Anh My là của tôi,
+    
+    nên em là người được anh yêu`,
     btnIntro: 'Anh hâm à?',
     title: 'Gọi em là TS, để đi kèm TC',
     desc: 'Em có muốn làm ly trà sữa ngọt ngào ở bên cạnh Tran Chau béo ngậy thơm lừng không ? <3',
