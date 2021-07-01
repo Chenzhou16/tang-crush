@@ -15,8 +15,8 @@ const CONFIG = {
     question:'Sao em lại yêu anh nhờ ?',
     btnReply: 'Anh dở hơi!',
     reply: 'Thích thì yêu, không thích thì yêu',
-    mess: '232 tháng có 6965 ngày',
-    messDesc: 'Nhưng mà ngày đẹp nhất là ngày bên em',
-    btnAccept: 'Đớp thính <33',
+    mess: '232 tháng có gần 7000 ngày',
+    messDesc: 'Nhưng với anh ngày đẹp nhất là ngày bên em',
+    btnAccept: 'Đớp thính <3',
     messLink: 'http://m.me/chau.ho.583' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
